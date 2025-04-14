@@ -37,9 +37,10 @@ cd motion-detection
 ```
 
 ### 2. Install dependencies
-
+```bash
 pip install opencv-python numpy
-
+```
 ### 3. Run the program
-
+```bash
 python3 main.py
+```
